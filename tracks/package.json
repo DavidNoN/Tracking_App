@@ -14,7 +14,7 @@
     "@react-navigation/compat": "^5.2.4",
     "@react-navigation/native": "^5.7.2",
     "@react-navigation/stack": "^5.8.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
     "ngrok": "^3.2.7",
